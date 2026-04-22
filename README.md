@@ -11,4 +11,4 @@
 - Set Operators
 
 ## Article link
-[Coming soon] – on Dev.to
+[Mastering commonly used SQL Joins](https://dev.to/alex_coder/mastering-sql-joins-with-relatable-examples-1b5h) on Dev.to
